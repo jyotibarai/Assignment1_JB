@@ -9,8 +9,7 @@ Select * from Work.Assignment1
 
 Select * from Work.Assignment3 
 
-select * from assignment where action="add"
-
+select * from assignment where action ="merge"
 
 
 
